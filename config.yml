@@ -1,6 +1,6 @@
 
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
 title: [The title of your site]
 description: [A short description of your site's purpose]
